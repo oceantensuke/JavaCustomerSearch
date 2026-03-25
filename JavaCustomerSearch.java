@@ -12,7 +12,7 @@ public class JavaCustomerSearch {
 	private static final String URL =
 		"jdbc:sqlserver://localhost:1433;databaseName=CustomerDB;encrypt=true;trustServerCertificate=true";
 	private static final String USER = "sa";
-	private static final String PASSWORD = "ocean324";
+	private static final String PASSWORD = "your_password";
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
